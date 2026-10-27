@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou policial militar na **PMESP** e estudante de **Engenharia da Computação**. Uso a tecnologia para resolver problemas reais: crio aplicações em Python, agentes de IA e fluxos de automação que economizam tempo e reduzem trabalho manual.
+Sou policial militar na **PMESP** e estudante de **Engenharia da Computação**. Uso  a tecnologia para resolver problemas reais: crio  aplicações em Python, agentes de IA e fluxos de automação que economizam tempo e reduzem trabalho manual.
 
 ## 🎯 Áreas de atuação
 
