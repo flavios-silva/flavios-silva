@@ -60,8 +60,8 @@ Sistema de checklists diários para a operação de uma pizzaria: funcionários 
 ## 📫 Vamos conversar?
 
 <!-- Preencha com os seus links e apague as linhas que não quiser -->
-- 💼 LinkedIn: [seu-perfil](https://www.linkedin.com/in/SEU-PERFIL)
-- ✉️ E-mail: seu-email@exemplo.com
+- 💼 LinkedIn: www.linkedin.com/in/flavio-santos-da-silva-2743a7252
+- ✉️ E-mail: flavios.silva@hotmail.com
 
 ---
 
